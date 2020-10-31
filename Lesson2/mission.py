@@ -63,4 +63,5 @@ def main():
     ask_what_to_do(interface)
 
 
-main()
+if __name__ == "__main__":
+    main()
